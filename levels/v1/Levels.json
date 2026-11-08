@@ -1,0 +1,2791 @@
+{
+    "source": "Balancing/Merge3D_Balancing.xlsx",
+    "revision": 1794171059,
+    "levels": [
+        {
+            "level": 1,
+            "difficulty": "Facile",
+            "seconds": 600.0,
+            "items": 8,
+            "families": [
+                {
+                    "family": 0,
+                    "min": 2,
+                    "max": 2
+                },
+                {
+                    "family": 2,
+                    "min": 2,
+                    "max": 2
+                },
+                {
+                    "family": 4,
+                    "min": 2,
+                    "max": 2
+                },
+                {
+                    "family": 5,
+                    "min": 2,
+                    "max": 2
+                }
+            ]
+        },
+        {
+            "level": 2,
+            "difficulty": "Facile",
+            "seconds": 750.0,
+            "items": 88,
+            "families": [
+                {
+                    "family": 0,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 1,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 2,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 3,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 4,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 5,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 6,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 7,
+                    "min": 1,
+                    "max": 4
+                }
+            ]
+        },
+        {
+            "level": 3,
+            "difficulty": "Difficile",
+            "seconds": 70.0,
+            "items": 24,
+            "families": [
+                {
+                    "family": 8,
+                    "min": 3,
+                    "max": 5
+                },
+                {
+                    "family": 9,
+                    "min": 3,
+                    "max": 5
+                },
+                {
+                    "family": 10,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 11,
+                    "min": 3,
+                    "max": 5
+                }
+            ]
+        },
+        {
+            "level": 4,
+            "difficulty": "Normal",
+            "seconds": 330.0,
+            "items": 80,
+            "families": [
+                {
+                    "family": 0,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 1,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 2,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 4,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 5,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 6,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 7,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 8,
+                    "min": 2,
+                    "max": 5
+                }
+            ]
+        },
+        {
+            "level": 5,
+            "difficulty": "Difficile",
+            "seconds": 160.0,
+            "items": 48,
+            "families": [
+                {
+                    "family": 0,
+                    "min": 1,
+                    "max": 3
+                },
+                {
+                    "family": 1,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 3,
+                    "min": 2,
+                    "max": 4
+                },
+                {
+                    "family": 4,
+                    "min": 1,
+                    "max": 3
+                },
+                {
+                    "family": 7,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 9,
+                    "min": 2,
+                    "max": 5
+                }
+            ]
+        },
+        {
+            "level": 6,
+            "difficulty": "Difficile",
+            "seconds": 180.0,
+            "items": 52,
+            "families": [
+                {
+                    "family": 3,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 4,
+                    "min": 2,
+                    "max": 4
+                },
+                {
+                    "family": 6,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 9,
+                    "min": 2,
+                    "max": 4
+                },
+                {
+                    "family": 10,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 11,
+                    "min": 2,
+                    "max": 5
+                }
+            ]
+        },
+        {
+            "level": 7,
+            "difficulty": "Normal",
+            "seconds": 280.0,
+            "items": 70,
+            "families": [
+                {
+                    "family": 0,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 3,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 4,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 5,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 6,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 9,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 10,
+                    "min": 2,
+                    "max": 5
+                }
+            ]
+        },
+        {
+            "level": 8,
+            "difficulty": "Facile",
+            "seconds": 660.0,
+            "items": 139,
+            "families": [
+                {
+                    "family": 0,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 1,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 4,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 5,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 6,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 7,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 8,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 9,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 10,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 11,
+                    "min": 1,
+                    "max": 4
+                }
+            ]
+        },
+        {
+            "level": 9,
+            "difficulty": "Difficile",
+            "seconds": 255.0,
+            "items": 129,
+            "families": [
+                {
+                    "family": 0,
+                    "min": 1,
+                    "max": 5
+                },
+                {
+                    "family": 1,
+                    "min": 1,
+                    "max": 5
+                },
+                {
+                    "family": 2,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 6,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 8,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 10,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 11,
+                    "min": 2,
+                    "max": 5
+                }
+            ]
+        },
+        {
+            "level": 10,
+            "difficulty": "Facile",
+            "seconds": 900.0,
+            "items": 142,
+            "families": [
+                {
+                    "family": 0,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 1,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 2,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 3,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 5,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 6,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 7,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 8,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 9,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 10,
+                    "min": 1,
+                    "max": 4
+                }
+            ]
+        },
+        {
+            "level": 11,
+            "difficulty": "Très difficile",
+            "seconds": 240.0,
+            "items": 142,
+            "families": [
+                {
+                    "family": 2,
+                    "min": 2,
+                    "max": 6
+                },
+                {
+                    "family": 3,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 6,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 7,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 10,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 11,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 12,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 13,
+                    "min": 1,
+                    "max": 4
+                }
+            ]
+        },
+        {
+            "level": 12,
+            "difficulty": "Normal",
+            "seconds": 205.0,
+            "items": 80,
+            "families": [
+                {
+                    "family": 3,
+                    "min": 2,
+                    "max": 6
+                },
+                {
+                    "family": 9,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 10,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 13,
+                    "min": 3,
+                    "max": 6
+                }
+            ]
+        },
+        {
+            "level": 13,
+            "difficulty": "Normal",
+            "seconds": 205.0,
+            "items": 75,
+            "families": [
+                {
+                    "family": 1,
+                    "min": 2,
+                    "max": 6
+                },
+                {
+                    "family": 4,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 8,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 11,
+                    "min": 3,
+                    "max": 6
+                }
+            ]
+        },
+        {
+            "level": 14,
+            "difficulty": "Difficile",
+            "seconds": 200.0,
+            "items": 122,
+            "families": [
+                {
+                    "family": 5,
+                    "min": 1,
+                    "max": 5
+                },
+                {
+                    "family": 7,
+                    "min": 2,
+                    "max": 6
+                },
+                {
+                    "family": 8,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 11,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 12,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 13,
+                    "min": 1,
+                    "max": 4
+                }
+            ]
+        },
+        {
+            "level": 15,
+            "difficulty": "Normal",
+            "seconds": 220.0,
+            "items": 75,
+            "families": [
+                {
+                    "family": 1,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 2,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 9,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 12,
+                    "min": 4,
+                    "max": 8
+                }
+            ]
+        },
+        {
+            "level": 16,
+            "difficulty": "Normal",
+            "seconds": 195.0,
+            "items": 78,
+            "families": [
+                {
+                    "family": 0,
+                    "min": 2,
+                    "max": 6
+                },
+                {
+                    "family": 5,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 7,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 13,
+                    "min": 3,
+                    "max": 6
+                }
+            ]
+        },
+        {
+            "level": 17,
+            "difficulty": "Normal",
+            "seconds": 190.0,
+            "items": 76,
+            "families": [
+                {
+                    "family": 4,
+                    "min": 1,
+                    "max": 5
+                },
+                {
+                    "family": 5,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 6,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 13,
+                    "min": 2,
+                    "max": 5
+                }
+            ]
+        },
+        {
+            "level": 18,
+            "difficulty": "Normal",
+            "seconds": 190.0,
+            "items": 76,
+            "families": [
+                {
+                    "family": 7,
+                    "min": 2,
+                    "max": 6
+                },
+                {
+                    "family": 9,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 10,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 12,
+                    "min": 1,
+                    "max": 4
+                }
+            ]
+        },
+        {
+            "level": 19,
+            "difficulty": "Difficile",
+            "seconds": 185.0,
+            "items": 116,
+            "families": [
+                {
+                    "family": 2,
+                    "min": 2,
+                    "max": 6
+                },
+                {
+                    "family": 4,
+                    "min": 1,
+                    "max": 5
+                },
+                {
+                    "family": 8,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 12,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 14,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 15,
+                    "min": 1,
+                    "max": 4
+                }
+            ]
+        },
+        {
+            "level": 20,
+            "difficulty": "Normal",
+            "seconds": 150.0,
+            "items": 59,
+            "families": [
+                {
+                    "family": 5,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 6,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 12,
+                    "min": 1,
+                    "max": 4
+                }
+            ]
+        },
+        {
+            "level": 21,
+            "difficulty": "Normal",
+            "seconds": 120.0,
+            "items": 49,
+            "families": [
+                {
+                    "family": 4,
+                    "min": 1,
+                    "max": 5
+                },
+                {
+                    "family": 5,
+                    "min": 4,
+                    "max": 7
+                },
+                {
+                    "family": 15,
+                    "min": 4,
+                    "max": 7
+                }
+            ]
+        },
+        {
+            "level": 22,
+            "difficulty": "Normal",
+            "seconds": 105.0,
+            "items": 43,
+            "families": [
+                {
+                    "family": 7,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 9,
+                    "min": 4,
+                    "max": 7
+                },
+                {
+                    "family": 14,
+                    "min": 1,
+                    "max": 4
+                }
+            ]
+        },
+        {
+            "level": 23,
+            "difficulty": "Difficile",
+            "seconds": 135.0,
+            "items": 82,
+            "families": [
+                {
+                    "family": 5,
+                    "min": 1,
+                    "max": 5
+                },
+                {
+                    "family": 10,
+                    "min": 3,
+                    "max": 7
+                },
+                {
+                    "family": 14,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 15,
+                    "min": 1,
+                    "max": 4
+                }
+            ]
+        },
+        {
+            "level": 24,
+            "difficulty": "Normal",
+            "seconds": 135.0,
+            "items": 53,
+            "families": [
+                {
+                    "family": 2,
+                    "min": 3,
+                    "max": 7
+                },
+                {
+                    "family": 6,
+                    "min": 4,
+                    "max": 7
+                },
+                {
+                    "family": 12,
+                    "min": 3,
+                    "max": 6
+                }
+            ]
+        },
+        {
+            "level": 25,
+            "difficulty": "Normal",
+            "seconds": 120.0,
+            "items": 49,
+            "families": [
+                {
+                    "family": 0,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 7,
+                    "min": 4,
+                    "max": 7
+                },
+                {
+                    "family": 15,
+                    "min": 2,
+                    "max": 5
+                }
+            ]
+        },
+        {
+            "level": 26,
+            "difficulty": "Normal",
+            "seconds": 180.0,
+            "items": 72,
+            "families": [
+                {
+                    "family": 10,
+                    "min": 1,
+                    "max": 5
+                },
+                {
+                    "family": 11,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 13,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 14,
+                    "min": 4,
+                    "max": 7
+                }
+            ]
+        },
+        {
+            "level": 27,
+            "difficulty": "Difficile",
+            "seconds": 165.0,
+            "items": 101,
+            "families": [
+                {
+                    "family": 4,
+                    "min": 1,
+                    "max": 5
+                },
+                {
+                    "family": 8,
+                    "min": 1,
+                    "max": 5
+                },
+                {
+                    "family": 12,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 14,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 15,
+                    "min": 1,
+                    "max": 4
+                }
+            ]
+        },
+        {
+            "level": 28,
+            "difficulty": "Normal",
+            "seconds": 239.0,
+            "items": 68,
+            "families": [
+                {
+                    "family": 7,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 8,
+                    "min": 4,
+                    "max": 7
+                },
+                {
+                    "family": 10,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 11,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 15,
+                    "min": 4,
+                    "max": 7
+                }
+            ]
+        },
+        {
+            "level": 29,
+            "difficulty": "Normal",
+            "seconds": 180.0,
+            "items": 72,
+            "families": [
+                {
+                    "family": 2,
+                    "min": 1,
+                    "max": 5
+                },
+                {
+                    "family": 12,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 16,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 17,
+                    "min": 3,
+                    "max": 6
+                }
+            ]
+        },
+        {
+            "level": 30,
+            "difficulty": "Normal",
+            "seconds": 135.0,
+            "items": 53,
+            "families": [
+                {
+                    "family": 7,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 8,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 15,
+                    "min": 4,
+                    "max": 8
+                }
+            ]
+        },
+        {
+            "level": 31,
+            "difficulty": "Normal",
+            "seconds": 180.0,
+            "items": 72,
+            "families": [
+                {
+                    "family": 10,
+                    "min": 2,
+                    "max": 6
+                },
+                {
+                    "family": 11,
+                    "min": 4,
+                    "max": 7
+                },
+                {
+                    "family": 15,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 17,
+                    "min": 1,
+                    "max": 4
+                }
+            ]
+        },
+        {
+            "level": 32,
+            "difficulty": "Normal",
+            "seconds": 205.0,
+            "items": 75,
+            "families": [
+                {
+                    "family": 0,
+                    "min": 3,
+                    "max": 7
+                },
+                {
+                    "family": 14,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 15,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 16,
+                    "min": 1,
+                    "max": 4
+                }
+            ]
+        },
+        {
+            "level": 33,
+            "difficulty": "Normal",
+            "seconds": 150.0,
+            "items": 59,
+            "families": [
+                {
+                    "family": 4,
+                    "min": 1,
+                    "max": 5
+                },
+                {
+                    "family": 11,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 17,
+                    "min": 4,
+                    "max": 7
+                }
+            ]
+        },
+        {
+            "level": 34,
+            "difficulty": "Difficile",
+            "seconds": 95.0,
+            "items": 57,
+            "families": [
+                {
+                    "family": 6,
+                    "min": 2,
+                    "max": 6
+                },
+                {
+                    "family": 9,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 17,
+                    "min": 3,
+                    "max": 6
+                }
+            ]
+        },
+        {
+            "level": 35,
+            "difficulty": "Normal",
+            "seconds": 120.0,
+            "items": 49,
+            "families": [
+                {
+                    "family": 5,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 6,
+                    "min": 4,
+                    "max": 7
+                },
+                {
+                    "family": 11,
+                    "min": 4,
+                    "max": 8
+                }
+            ]
+        },
+        {
+            "level": 36,
+            "difficulty": "Normal",
+            "seconds": 180.0,
+            "items": 72,
+            "families": [
+                {
+                    "family": 0,
+                    "min": 2,
+                    "max": 6
+                },
+                {
+                    "family": 3,
+                    "min": 4,
+                    "max": 7
+                },
+                {
+                    "family": 13,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 16,
+                    "min": 4,
+                    "max": 7
+                }
+            ]
+        },
+        {
+            "level": 37,
+            "difficulty": "Normal",
+            "seconds": 150.0,
+            "items": 59,
+            "families": [
+                {
+                    "family": 9,
+                    "min": 1,
+                    "max": 5
+                },
+                {
+                    "family": 10,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 17,
+                    "min": 1,
+                    "max": 4
+                }
+            ]
+        },
+        {
+            "level": 38,
+            "difficulty": "Normal",
+            "seconds": 165.0,
+            "items": 63,
+            "families": [
+                {
+                    "family": 5,
+                    "min": 3,
+                    "max": 7
+                },
+                {
+                    "family": 16,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 17,
+                    "min": 4,
+                    "max": 7
+                }
+            ]
+        },
+        {
+            "level": 39,
+            "difficulty": "Très difficile",
+            "seconds": 170.0,
+            "items": 83,
+            "families": [
+                {
+                    "family": 0,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 5,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 6,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 7,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 11,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 15,
+                    "min": 4,
+                    "max": 7
+                },
+                {
+                    "family": 17,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 18,
+                    "min": 3,
+                    "max": 6
+                }
+            ]
+        },
+        {
+            "level": 40,
+            "difficulty": "Normal",
+            "seconds": 150.0,
+            "items": 59,
+            "families": [
+                {
+                    "family": 0,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 7,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 17,
+                    "min": 4,
+                    "max": 7
+                }
+            ]
+        },
+        {
+            "level": 41,
+            "difficulty": "Normal",
+            "seconds": 150.0,
+            "items": 59,
+            "families": [
+                {
+                    "family": 2,
+                    "min": 2,
+                    "max": 6
+                },
+                {
+                    "family": 15,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 17,
+                    "min": 1,
+                    "max": 4
+                }
+            ]
+        },
+        {
+            "level": 42,
+            "difficulty": "Normal",
+            "seconds": 150.0,
+            "items": 59,
+            "families": [
+                {
+                    "family": 0,
+                    "min": 3,
+                    "max": 7
+                },
+                {
+                    "family": 4,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 14,
+                    "min": 2,
+                    "max": 5
+                }
+            ]
+        },
+        {
+            "level": 43,
+            "difficulty": "Normal",
+            "seconds": 150.0,
+            "items": 59,
+            "families": [
+                {
+                    "family": 14,
+                    "min": 3,
+                    "max": 7
+                },
+                {
+                    "family": 16,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 18,
+                    "min": 2,
+                    "max": 5
+                }
+            ]
+        },
+        {
+            "level": 44,
+            "difficulty": "Difficile",
+            "seconds": 70.0,
+            "items": 45,
+            "families": [
+                {
+                    "family": 7,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 14,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 19,
+                    "min": 3,
+                    "max": 6
+                }
+            ]
+        },
+        {
+            "level": 45,
+            "difficulty": "Normal",
+            "seconds": 135.0,
+            "items": 49,
+            "families": [
+                {
+                    "family": 8,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 11,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 19,
+                    "min": 4,
+                    "max": 8
+                }
+            ]
+        },
+        {
+            "level": 46,
+            "difficulty": "Normal",
+            "seconds": 90.0,
+            "items": 37,
+            "families": [
+                {
+                    "family": 10,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 13,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 19,
+                    "min": 4,
+                    "max": 7
+                }
+            ]
+        },
+        {
+            "level": 47,
+            "difficulty": "Normal",
+            "seconds": 180.0,
+            "items": 72,
+            "families": [
+                {
+                    "family": 6,
+                    "min": 3,
+                    "max": 7
+                },
+                {
+                    "family": 9,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 15,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 19,
+                    "min": 3,
+                    "max": 6
+                }
+            ]
+        },
+        {
+            "level": 48,
+            "difficulty": "Normal",
+            "seconds": 120.0,
+            "items": 49,
+            "families": [
+                {
+                    "family": 13,
+                    "min": 2,
+                    "max": 6
+                },
+                {
+                    "family": 15,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 18,
+                    "min": 1,
+                    "max": 4
+                }
+            ]
+        },
+        {
+            "level": 49,
+            "difficulty": "Très difficile",
+            "seconds": 90.0,
+            "items": 82,
+            "families": [
+                {
+                    "family": 1,
+                    "min": 1,
+                    "max": 5
+                },
+                {
+                    "family": 5,
+                    "min": 1,
+                    "max": 5
+                },
+                {
+                    "family": 6,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 17,
+                    "min": 3,
+                    "max": 6
+                }
+            ]
+        },
+        {
+            "level": 50,
+            "difficulty": "Normal",
+            "seconds": 120.0,
+            "items": 46,
+            "families": [
+                {
+                    "family": 0,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 15,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 19,
+                    "min": 4,
+                    "max": 8
+                }
+            ]
+        },
+        {
+            "level": 51,
+            "difficulty": "Normal",
+            "seconds": 165.0,
+            "items": 63,
+            "families": [
+                {
+                    "family": 14,
+                    "min": 2,
+                    "max": 6
+                },
+                {
+                    "family": 18,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 19,
+                    "min": 3,
+                    "max": 6
+                }
+            ]
+        },
+        {
+            "level": 52,
+            "difficulty": "Normal",
+            "seconds": 150.0,
+            "items": 59,
+            "families": [
+                {
+                    "family": 5,
+                    "min": 2,
+                    "max": 6
+                },
+                {
+                    "family": 6,
+                    "min": 4,
+                    "max": 7
+                },
+                {
+                    "family": 18,
+                    "min": 2,
+                    "max": 5
+                }
+            ]
+        },
+        {
+            "level": 53,
+            "difficulty": "Normal",
+            "seconds": 165.0,
+            "items": 63,
+            "families": [
+                {
+                    "family": 14,
+                    "min": 1,
+                    "max": 5
+                },
+                {
+                    "family": 15,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 16,
+                    "min": 4,
+                    "max": 7
+                }
+            ]
+        },
+        {
+            "level": 54,
+            "difficulty": "Difficile",
+            "seconds": 130.0,
+            "items": 80,
+            "families": [
+                {
+                    "family": 1,
+                    "min": 3,
+                    "max": 7
+                },
+                {
+                    "family": 2,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 15,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 18,
+                    "min": 1,
+                    "max": 4
+                }
+            ]
+        },
+        {
+            "level": 55,
+            "difficulty": "Normal",
+            "seconds": 135.0,
+            "items": 49,
+            "families": [
+                {
+                    "family": 3,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 9,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 19,
+                    "min": 4,
+                    "max": 8
+                }
+            ]
+        },
+        {
+            "level": 56,
+            "difficulty": "Normal",
+            "seconds": 150.0,
+            "items": 59,
+            "families": [
+                {
+                    "family": 16,
+                    "min": 2,
+                    "max": 6
+                },
+                {
+                    "family": 17,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 19,
+                    "min": 3,
+                    "max": 6
+                }
+            ]
+        },
+        {
+            "level": 57,
+            "difficulty": "Normal",
+            "seconds": 150.0,
+            "items": 59,
+            "families": [
+                {
+                    "family": 1,
+                    "min": 1,
+                    "max": 5
+                },
+                {
+                    "family": 13,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 16,
+                    "min": 1,
+                    "max": 4
+                }
+            ]
+        },
+        {
+            "level": 58,
+            "difficulty": "Normal",
+            "seconds": 180.0,
+            "items": 72,
+            "families": [
+                {
+                    "family": 5,
+                    "min": 1,
+                    "max": 5
+                },
+                {
+                    "family": 11,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 15,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 19,
+                    "min": 2,
+                    "max": 5
+                }
+            ]
+        },
+        {
+            "level": 59,
+            "difficulty": "Très difficile",
+            "seconds": 115.0,
+            "items": 105,
+            "families": [
+                {
+                    "family": 0,
+                    "min": 3,
+                    "max": 7
+                },
+                {
+                    "family": 3,
+                    "min": 1,
+                    "max": 5
+                },
+                {
+                    "family": 15,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 16,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 17,
+                    "min": 3,
+                    "max": 6
+                }
+            ]
+        },
+        {
+            "level": 60,
+            "difficulty": "Normal",
+            "seconds": 165.0,
+            "items": 55,
+            "families": [
+                {
+                    "family": 8,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 14,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 16,
+                    "min": 4,
+                    "max": 8
+                }
+            ]
+        },
+        {
+            "level": 61,
+            "difficulty": "Normal",
+            "seconds": 150.0,
+            "items": 59,
+            "families": [
+                {
+                    "family": 15,
+                    "min": 1,
+                    "max": 5
+                },
+                {
+                    "family": 16,
+                    "min": 4,
+                    "max": 7
+                },
+                {
+                    "family": 17,
+                    "min": 2,
+                    "max": 5
+                }
+            ]
+        },
+        {
+            "level": 62,
+            "difficulty": "Normal",
+            "seconds": 165.0,
+            "items": 63,
+            "families": [
+                {
+                    "family": 14,
+                    "min": 1,
+                    "max": 5
+                },
+                {
+                    "family": 15,
+                    "min": 4,
+                    "max": 7
+                },
+                {
+                    "family": 16,
+                    "min": 1,
+                    "max": 4
+                }
+            ]
+        },
+        {
+            "level": 63,
+            "difficulty": "Normal",
+            "seconds": 180.0,
+            "items": 62,
+            "families": [
+                {
+                    "family": 7,
+                    "min": 4,
+                    "max": 7
+                },
+                {
+                    "family": 11,
+                    "min": 5,
+                    "max": 8
+                },
+                {
+                    "family": 14,
+                    "min": 5,
+                    "max": 8
+                },
+                {
+                    "family": 19,
+                    "min": 3,
+                    "max": 6
+                }
+            ]
+        },
+        {
+            "level": 64,
+            "difficulty": "Difficile",
+            "seconds": 100.0,
+            "items": 61,
+            "families": [
+                {
+                    "family": 7,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 17,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 18,
+                    "min": 5,
+                    "max": 8
+                }
+            ]
+        },
+        {
+            "level": 65,
+            "difficulty": "Normal",
+            "seconds": 105.0,
+            "items": 43,
+            "families": [
+                {
+                    "family": 4,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 17,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 18,
+                    "min": 4,
+                    "max": 8
+                }
+            ]
+        },
+        {
+            "level": 66,
+            "difficulty": "Normal",
+            "seconds": 105.0,
+            "items": 43,
+            "families": [
+                {
+                    "family": 14,
+                    "min": 4,
+                    "max": 7
+                },
+                {
+                    "family": 15,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 17,
+                    "min": 5,
+                    "max": 8
+                }
+            ]
+        },
+        {
+            "level": 67,
+            "difficulty": "Normal",
+            "seconds": 180.0,
+            "items": 72,
+            "families": [
+                {
+                    "family": 3,
+                    "min": 1,
+                    "max": 5
+                },
+                {
+                    "family": 16,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 17,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 19,
+                    "min": 4,
+                    "max": 7
+                }
+            ]
+        },
+        {
+            "level": 68,
+            "difficulty": "Normal",
+            "seconds": 165.0,
+            "items": 63,
+            "families": [
+                {
+                    "family": 14,
+                    "min": 1,
+                    "max": 5
+                },
+                {
+                    "family": 16,
+                    "min": 4,
+                    "max": 7
+                },
+                {
+                    "family": 17,
+                    "min": 5,
+                    "max": 8
+                }
+            ]
+        },
+        {
+            "level": 69,
+            "difficulty": "Très difficile",
+            "seconds": 115.0,
+            "items": 66,
+            "families": [
+                {
+                    "family": 7,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 8,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 15,
+                    "min": 5,
+                    "max": 8
+                },
+                {
+                    "family": 16,
+                    "min": 5,
+                    "max": 8
+                },
+                {
+                    "family": 17,
+                    "min": 4,
+                    "max": 7
+                }
+            ]
+        },
+        {
+            "level": 70,
+            "difficulty": "Normal",
+            "seconds": 120.0,
+            "items": 49,
+            "families": [
+                {
+                    "family": 3,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 4,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 19,
+                    "min": 4,
+                    "max": 8
+                }
+            ]
+        },
+        {
+            "level": 71,
+            "difficulty": "Normal",
+            "seconds": 150.0,
+            "items": 59,
+            "families": [
+                {
+                    "family": 7,
+                    "min": 1,
+                    "max": 5
+                },
+                {
+                    "family": 15,
+                    "min": 4,
+                    "max": 7
+                },
+                {
+                    "family": 16,
+                    "min": 4,
+                    "max": 7
+                }
+            ]
+        },
+        {
+            "level": 72,
+            "difficulty": "Normal",
+            "seconds": 195.0,
+            "items": 78,
+            "families": [
+                {
+                    "family": 0,
+                    "min": 1,
+                    "max": 5
+                },
+                {
+                    "family": 14,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 18,
+                    "min": 4,
+                    "max": 7
+                },
+                {
+                    "family": 19,
+                    "min": 1,
+                    "max": 4
+                }
+            ]
+        },
+        {
+            "level": 73,
+            "difficulty": "Normal",
+            "seconds": 180.0,
+            "items": 67,
+            "families": [
+                {
+                    "family": 2,
+                    "min": 2,
+                    "max": 6
+                },
+                {
+                    "family": 5,
+                    "min": 5,
+                    "max": 8
+                },
+                {
+                    "family": 15,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 17,
+                    "min": 3,
+                    "max": 6
+                }
+            ]
+        },
+        {
+            "level": 74,
+            "difficulty": "Difficile",
+            "seconds": 90.0,
+            "items": 55,
+            "families": [
+                {
+                    "family": 0,
+                    "min": 3,
+                    "max": 7
+                },
+                {
+                    "family": 3,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 19,
+                    "min": 5,
+                    "max": 8
+                }
+            ]
+        },
+        {
+            "level": 75,
+            "difficulty": "Normal",
+            "seconds": 180.0,
+            "items": 49,
+            "families": [
+                {
+                    "family": 0,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 4,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 11,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 12,
+                    "min": 2,
+                    "max": 5
+                }
+            ]
+        },
+        {
+            "level": 76,
+            "difficulty": "Normal",
+            "seconds": 180.0,
+            "items": 72,
+            "families": [
+                {
+                    "family": 1,
+                    "min": 1,
+                    "max": 5
+                },
+                {
+                    "family": 2,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 4,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 5,
+                    "min": 4,
+                    "max": 7
+                }
+            ]
+        },
+        {
+            "level": 77,
+            "difficulty": "Normal",
+            "seconds": 150.0,
+            "items": 59,
+            "families": [
+                {
+                    "family": 13,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 14,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 16,
+                    "min": 5,
+                    "max": 8
+                }
+            ]
+        },
+        {
+            "level": 78,
+            "difficulty": "Normal",
+            "seconds": 180.0,
+            "items": 67,
+            "families": [
+                {
+                    "family": 3,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 6,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 17,
+                    "min": 5,
+                    "max": 8
+                },
+                {
+                    "family": 18,
+                    "min": 1,
+                    "max": 4
+                }
+            ]
+        },
+        {
+            "level": 79,
+            "difficulty": "Très difficile",
+            "seconds": 120.0,
+            "items": 76,
+            "families": [
+                {
+                    "family": 0,
+                    "min": 5,
+                    "max": 8
+                },
+                {
+                    "family": 5,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 6,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 8,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 10,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 11,
+                    "min": 1,
+                    "max": 4
+                }
+            ]
+        },
+        {
+            "level": 80,
+            "difficulty": "Normal",
+            "seconds": 150.0,
+            "items": 48,
+            "families": [
+                {
+                    "family": 1,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 14,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 15,
+                    "min": 4,
+                    "max": 8
+                }
+            ]
+        },
+        {
+            "level": 81,
+            "difficulty": "Normal",
+            "seconds": 135.0,
+            "items": 53,
+            "families": [
+                {
+                    "family": 4,
+                    "min": 3,
+                    "max": 7
+                },
+                {
+                    "family": 10,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 14,
+                    "min": 2,
+                    "max": 5
+                }
+            ]
+        },
+        {
+            "level": 82,
+            "difficulty": "Normal",
+            "seconds": 120.0,
+            "items": 49,
+            "families": [
+                {
+                    "family": 9,
+                    "min": 3,
+                    "max": 7
+                },
+                {
+                    "family": 15,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 17,
+                    "min": 3,
+                    "max": 6
+                }
+            ]
+        },
+        {
+            "level": 83,
+            "difficulty": "Normal",
+            "seconds": 180.0,
+            "items": 72,
+            "families": [
+                {
+                    "family": 1,
+                    "min": 2,
+                    "max": 6
+                },
+                {
+                    "family": 4,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 13,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 14,
+                    "min": 3,
+                    "max": 6
+                }
+            ]
+        },
+        {
+            "level": 84,
+            "difficulty": "Difficile",
+            "seconds": 110.0,
+            "items": 65,
+            "families": [
+                {
+                    "family": 4,
+                    "min": 1,
+                    "max": 5
+                },
+                {
+                    "family": 10,
+                    "min": 1,
+                    "max": 5
+                },
+                {
+                    "family": 12,
+                    "min": 5,
+                    "max": 8
+                }
+            ]
+        },
+        {
+            "level": 85,
+            "difficulty": "Normal",
+            "seconds": 120.0,
+            "items": 49,
+            "families": [
+                {
+                    "family": 7,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 14,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 17,
+                    "min": 4,
+                    "max": 8
+                }
+            ]
+        },
+        {
+            "level": 86,
+            "difficulty": "Normal",
+            "seconds": 135.0,
+            "items": 53,
+            "families": [
+                {
+                    "family": 15,
+                    "min": 3,
+                    "max": 7
+                },
+                {
+                    "family": 17,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 19,
+                    "min": 4,
+                    "max": 7
+                }
+            ]
+        },
+        {
+            "level": 87,
+            "difficulty": "Normal",
+            "seconds": 150.0,
+            "items": 59,
+            "families": [
+                {
+                    "family": 8,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 10,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 19,
+                    "min": 3,
+                    "max": 6
+                }
+            ]
+        },
+        {
+            "level": 88,
+            "difficulty": "Normal",
+            "seconds": 135.0,
+            "items": 53,
+            "families": [
+                {
+                    "family": 8,
+                    "min": 1,
+                    "max": 5
+                },
+                {
+                    "family": 16,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 17,
+                    "min": 1,
+                    "max": 4
+                }
+            ]
+        },
+        {
+            "level": 89,
+            "difficulty": "Très difficile",
+            "seconds": 140.0,
+            "items": 67,
+            "families": [
+                {
+                    "family": 1,
+                    "min": 4,
+                    "max": 7
+                },
+                {
+                    "family": 2,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 3,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 5,
+                    "min": 4,
+                    "max": 7
+                },
+                {
+                    "family": 7,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 10,
+                    "min": 3,
+                    "max": 6
+                }
+            ]
+        },
+        {
+            "level": 90,
+            "difficulty": "Normal",
+            "seconds": 120.0,
+            "items": 46,
+            "families": [
+                {
+                    "family": 9,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 15,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 17,
+                    "min": 4,
+                    "max": 8
+                }
+            ]
+        },
+        {
+            "level": 91,
+            "difficulty": "Normal",
+            "seconds": 135.0,
+            "items": 53,
+            "families": [
+                {
+                    "family": 0,
+                    "min": 3,
+                    "max": 7
+                },
+                {
+                    "family": 2,
+                    "min": 4,
+                    "max": 7
+                },
+                {
+                    "family": 15,
+                    "min": 4,
+                    "max": 7
+                }
+            ]
+        },
+        {
+            "level": 92,
+            "difficulty": "Normal",
+            "seconds": 120.0,
+            "items": 49,
+            "families": [
+                {
+                    "family": 6,
+                    "min": 1,
+                    "max": 5
+                },
+                {
+                    "family": 15,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 18,
+                    "min": 2,
+                    "max": 5
+                }
+            ]
+        },
+        {
+            "level": 93,
+            "difficulty": "Normal",
+            "seconds": 105.0,
+            "items": 43,
+            "families": [
+                {
+                    "family": 15,
+                    "min": 5,
+                    "max": 8
+                },
+                {
+                    "family": 16,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 18,
+                    "min": 3,
+                    "max": 6
+                }
+            ]
+        },
+        {
+            "level": 94,
+            "difficulty": "Difficile",
+            "seconds": 120.0,
+            "items": 52,
+            "families": [
+                {
+                    "family": 1,
+                    "min": 5,
+                    "max": 8
+                },
+                {
+                    "family": 11,
+                    "min": 4,
+                    "max": 7
+                },
+                {
+                    "family": 12,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 16,
+                    "min": 4,
+                    "max": 7
+                }
+            ]
+        },
+        {
+            "level": 95,
+            "difficulty": "Normal",
+            "seconds": 150.0,
+            "items": 51,
+            "families": [
+                {
+                    "family": 7,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 9,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 19,
+                    "min": 4,
+                    "max": 8
+                }
+            ]
+        },
+        {
+            "level": 96,
+            "difficulty": "Normal",
+            "seconds": 150.0,
+            "items": 59,
+            "families": [
+                {
+                    "family": 13,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 16,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 17,
+                    "min": 5,
+                    "max": 8
+                }
+            ]
+        },
+        {
+            "level": 97,
+            "difficulty": "Normal",
+            "seconds": 150.0,
+            "items": 55,
+            "families": [
+                {
+                    "family": 10,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 11,
+                    "min": 5,
+                    "max": 8
+                },
+                {
+                    "family": 12,
+                    "min": 2,
+                    "max": 5
+                }
+            ]
+        },
+        {
+            "level": 98,
+            "difficulty": "Normal",
+            "seconds": 135.0,
+            "items": 53,
+            "families": [
+                {
+                    "family": 4,
+                    "min": 1,
+                    "max": 5
+                },
+                {
+                    "family": 11,
+                    "min": 1,
+                    "max": 4
+                },
+                {
+                    "family": 16,
+                    "min": 1,
+                    "max": 4
+                }
+            ]
+        },
+        {
+            "level": 99,
+            "difficulty": "Très difficile",
+            "seconds": 100.0,
+            "items": 73,
+            "families": [
+                {
+                    "family": 2,
+                    "min": 5,
+                    "max": 8
+                },
+                {
+                    "family": 6,
+                    "min": 3,
+                    "max": 6
+                },
+                {
+                    "family": 10,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 18,
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "family": 19,
+                    "min": 4,
+                    "max": 7
+                }
+            ]
+        },
+        {
+            "level": 100,
+            "difficulty": "Normal",
+            "seconds": 135.0,
+            "items": 53,
+            "families": [
+                {
+                    "family": 9,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 14,
+                    "min": 4,
+                    "max": 8
+                },
+                {
+                    "family": 16,
+                    "min": 4,
+                    "max": 8
+                }
+            ]
+        }
+    ]
+}
