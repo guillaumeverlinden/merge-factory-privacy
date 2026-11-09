@@ -1,6 +1,6 @@
 {
     "source": "Balancing/Merge3D_Balancing.xlsx",
-    "revision": 1794171059,
+    "revision": 1794257243,
     "levels": [
         {
             "level": 1,
@@ -195,8 +195,8 @@
         {
             "level": 6,
             "difficulty": "Difficile",
-            "seconds": 180.0,
-            "items": 52,
+            "seconds": 120.0,
+            "items": 76,
             "families": [
                 {
                     "family": 3,
