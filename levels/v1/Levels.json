@@ -1,31 +1,31 @@
 {
     "source": "Balancing/Merge3D_Balancing.xlsx",
-    "revision": 1794262757,
+    "revision": 1794475509,
     "levels": [
         {
             "level": 1,
             "difficulty": "Facile",
             "seconds": 600.0,
-            "items": 8,
+            "items": 12,
             "families": [
                 {
                     "family": 0,
-                    "min": 2,
+                    "min": 1,
                     "max": 2
                 },
                 {
                     "family": 2,
-                    "min": 2,
+                    "min": 1,
                     "max": 2
                 },
                 {
                     "family": 4,
-                    "min": 2,
+                    "min": 1,
                     "max": 2
                 },
                 {
                     "family": 5,
-                    "min": 2,
+                    "min": 1,
                     "max": 2
                 }
             ]
