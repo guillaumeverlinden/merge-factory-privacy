@@ -1,12 +1,13 @@
 {
     "source": "Balancing/Merge3D_Balancing.xlsx",
-    "revision": 1794475509,
+    "revision": 1794506237,
     "levels": [
         {
             "level": 1,
             "difficulty": "Facile",
             "seconds": 600.0,
             "items": 12,
+            "merge": 2,
             "families": [
                 {
                     "family": 0,
@@ -35,6 +36,7 @@
             "difficulty": "Facile",
             "seconds": 750.0,
             "items": 88,
+            "merge": 2,
             "families": [
                 {
                     "family": 0,
@@ -83,6 +85,7 @@
             "difficulty": "Difficile",
             "seconds": 70.0,
             "items": 24,
+            "merge": 2,
             "families": [
                 {
                     "family": 8,
@@ -111,6 +114,7 @@
             "difficulty": "Normal",
             "seconds": 330.0,
             "items": 80,
+            "merge": 2,
             "families": [
                 {
                     "family": 0,
@@ -159,6 +163,7 @@
             "difficulty": "Difficile",
             "seconds": 160.0,
             "items": 48,
+            "merge": 2,
             "families": [
                 {
                     "family": 0,
@@ -197,6 +202,7 @@
             "difficulty": "Difficile",
             "seconds": 120.0,
             "items": 76,
+            "merge": 2,
             "families": [
                 {
                     "family": 3,
@@ -235,6 +241,7 @@
             "difficulty": "Normal",
             "seconds": 280.0,
             "items": 70,
+            "merge": 2,
             "families": [
                 {
                     "family": 0,
@@ -278,6 +285,7 @@
             "difficulty": "Facile",
             "seconds": 480.0,
             "items": 139,
+            "merge": 2,
             "families": [
                 {
                     "family": 0,
@@ -336,6 +344,7 @@
             "difficulty": "Difficile",
             "seconds": 255.0,
             "items": 129,
+            "merge": 2,
             "families": [
                 {
                     "family": 0,
@@ -379,6 +388,7 @@
             "difficulty": "Facile",
             "seconds": 390.0,
             "items": 142,
+            "merge": 3,
             "families": [
                 {
                     "family": 0,
@@ -437,6 +447,7 @@
             "difficulty": "Très difficile",
             "seconds": 240.0,
             "items": 142,
+            "merge": 2,
             "families": [
                 {
                     "family": 2,
@@ -485,6 +496,7 @@
             "difficulty": "Normal",
             "seconds": 205.0,
             "items": 80,
+            "merge": 2,
             "families": [
                 {
                     "family": 3,
@@ -513,6 +525,7 @@
             "difficulty": "Normal",
             "seconds": 205.0,
             "items": 75,
+            "merge": 2,
             "families": [
                 {
                     "family": 1,
@@ -541,6 +554,7 @@
             "difficulty": "Difficile",
             "seconds": 200.0,
             "items": 122,
+            "merge": 2,
             "families": [
                 {
                     "family": 5,
@@ -579,6 +593,7 @@
             "difficulty": "Normal",
             "seconds": 220.0,
             "items": 75,
+            "merge": 2,
             "families": [
                 {
                     "family": 1,
@@ -607,6 +622,7 @@
             "difficulty": "Normal",
             "seconds": 195.0,
             "items": 78,
+            "merge": 2,
             "families": [
                 {
                     "family": 0,
@@ -635,6 +651,7 @@
             "difficulty": "Normal",
             "seconds": 190.0,
             "items": 76,
+            "merge": 2,
             "families": [
                 {
                     "family": 4,
@@ -663,6 +680,7 @@
             "difficulty": "Normal",
             "seconds": 190.0,
             "items": 76,
+            "merge": 2,
             "families": [
                 {
                     "family": 7,
@@ -691,6 +709,7 @@
             "difficulty": "Difficile",
             "seconds": 185.0,
             "items": 116,
+            "merge": 2,
             "families": [
                 {
                     "family": 2,
@@ -729,6 +748,7 @@
             "difficulty": "Normal",
             "seconds": 150.0,
             "items": 59,
+            "merge": 3,
             "families": [
                 {
                     "family": 5,
@@ -752,6 +772,7 @@
             "difficulty": "Normal",
             "seconds": 120.0,
             "items": 49,
+            "merge": 2,
             "families": [
                 {
                     "family": 4,
@@ -775,6 +796,7 @@
             "difficulty": "Normal",
             "seconds": 105.0,
             "items": 43,
+            "merge": 2,
             "families": [
                 {
                     "family": 7,
@@ -798,6 +820,7 @@
             "difficulty": "Difficile",
             "seconds": 135.0,
             "items": 82,
+            "merge": 2,
             "families": [
                 {
                     "family": 5,
@@ -826,6 +849,7 @@
             "difficulty": "Normal",
             "seconds": 135.0,
             "items": 53,
+            "merge": 2,
             "families": [
                 {
                     "family": 2,
@@ -849,6 +873,7 @@
             "difficulty": "Normal",
             "seconds": 120.0,
             "items": 49,
+            "merge": 2,
             "families": [
                 {
                     "family": 0,
@@ -872,6 +897,7 @@
             "difficulty": "Normal",
             "seconds": 180.0,
             "items": 72,
+            "merge": 2,
             "families": [
                 {
                     "family": 10,
@@ -900,6 +926,7 @@
             "difficulty": "Difficile",
             "seconds": 165.0,
             "items": 101,
+            "merge": 2,
             "families": [
                 {
                     "family": 4,
@@ -933,6 +960,7 @@
             "difficulty": "Normal",
             "seconds": 239.0,
             "items": 68,
+            "merge": 2,
             "families": [
                 {
                     "family": 7,
@@ -966,6 +994,7 @@
             "difficulty": "Normal",
             "seconds": 180.0,
             "items": 72,
+            "merge": 2,
             "families": [
                 {
                     "family": 2,
@@ -994,6 +1023,7 @@
             "difficulty": "Normal",
             "seconds": 135.0,
             "items": 53,
+            "merge": 3,
             "families": [
                 {
                     "family": 7,
@@ -1017,6 +1047,7 @@
             "difficulty": "Normal",
             "seconds": 180.0,
             "items": 72,
+            "merge": 2,
             "families": [
                 {
                     "family": 10,
@@ -1045,6 +1076,7 @@
             "difficulty": "Normal",
             "seconds": 205.0,
             "items": 75,
+            "merge": 2,
             "families": [
                 {
                     "family": 0,
@@ -1073,6 +1105,7 @@
             "difficulty": "Normal",
             "seconds": 150.0,
             "items": 59,
+            "merge": 2,
             "families": [
                 {
                     "family": 4,
@@ -1096,6 +1129,7 @@
             "difficulty": "Difficile",
             "seconds": 95.0,
             "items": 57,
+            "merge": 2,
             "families": [
                 {
                     "family": 6,
@@ -1119,6 +1153,7 @@
             "difficulty": "Normal",
             "seconds": 120.0,
             "items": 49,
+            "merge": 2,
             "families": [
                 {
                     "family": 5,
@@ -1142,6 +1177,7 @@
             "difficulty": "Normal",
             "seconds": 180.0,
             "items": 72,
+            "merge": 2,
             "families": [
                 {
                     "family": 0,
@@ -1170,6 +1206,7 @@
             "difficulty": "Normal",
             "seconds": 150.0,
             "items": 59,
+            "merge": 2,
             "families": [
                 {
                     "family": 9,
@@ -1193,6 +1230,7 @@
             "difficulty": "Normal",
             "seconds": 165.0,
             "items": 63,
+            "merge": 2,
             "families": [
                 {
                     "family": 5,
@@ -1216,6 +1254,7 @@
             "difficulty": "Très difficile",
             "seconds": 170.0,
             "items": 83,
+            "merge": 2,
             "families": [
                 {
                     "family": 0,
@@ -1264,6 +1303,7 @@
             "difficulty": "Normal",
             "seconds": 150.0,
             "items": 59,
+            "merge": 3,
             "families": [
                 {
                     "family": 0,
@@ -1287,6 +1327,7 @@
             "difficulty": "Normal",
             "seconds": 150.0,
             "items": 59,
+            "merge": 2,
             "families": [
                 {
                     "family": 2,
@@ -1310,6 +1351,7 @@
             "difficulty": "Normal",
             "seconds": 150.0,
             "items": 59,
+            "merge": 2,
             "families": [
                 {
                     "family": 0,
@@ -1333,6 +1375,7 @@
             "difficulty": "Normal",
             "seconds": 150.0,
             "items": 59,
+            "merge": 2,
             "families": [
                 {
                     "family": 14,
@@ -1356,6 +1399,7 @@
             "difficulty": "Difficile",
             "seconds": 70.0,
             "items": 45,
+            "merge": 2,
             "families": [
                 {
                     "family": 7,
@@ -1379,6 +1423,7 @@
             "difficulty": "Normal",
             "seconds": 135.0,
             "items": 49,
+            "merge": 2,
             "families": [
                 {
                     "family": 8,
@@ -1402,6 +1447,7 @@
             "difficulty": "Normal",
             "seconds": 90.0,
             "items": 37,
+            "merge": 2,
             "families": [
                 {
                     "family": 10,
@@ -1425,6 +1471,7 @@
             "difficulty": "Normal",
             "seconds": 180.0,
             "items": 72,
+            "merge": 2,
             "families": [
                 {
                     "family": 6,
@@ -1453,6 +1500,7 @@
             "difficulty": "Normal",
             "seconds": 120.0,
             "items": 49,
+            "merge": 2,
             "families": [
                 {
                     "family": 13,
@@ -1476,6 +1524,7 @@
             "difficulty": "Très difficile",
             "seconds": 90.0,
             "items": 82,
+            "merge": 2,
             "families": [
                 {
                     "family": 1,
@@ -1504,6 +1553,7 @@
             "difficulty": "Normal",
             "seconds": 120.0,
             "items": 46,
+            "merge": 3,
             "families": [
                 {
                     "family": 0,
@@ -1527,6 +1577,7 @@
             "difficulty": "Normal",
             "seconds": 165.0,
             "items": 63,
+            "merge": 2,
             "families": [
                 {
                     "family": 14,
@@ -1550,6 +1601,7 @@
             "difficulty": "Normal",
             "seconds": 150.0,
             "items": 59,
+            "merge": 2,
             "families": [
                 {
                     "family": 5,
@@ -1573,6 +1625,7 @@
             "difficulty": "Normal",
             "seconds": 165.0,
             "items": 63,
+            "merge": 2,
             "families": [
                 {
                     "family": 14,
@@ -1596,6 +1649,7 @@
             "difficulty": "Difficile",
             "seconds": 130.0,
             "items": 80,
+            "merge": 2,
             "families": [
                 {
                     "family": 1,
@@ -1624,6 +1678,7 @@
             "difficulty": "Normal",
             "seconds": 135.0,
             "items": 49,
+            "merge": 2,
             "families": [
                 {
                     "family": 3,
@@ -1647,6 +1702,7 @@
             "difficulty": "Normal",
             "seconds": 150.0,
             "items": 59,
+            "merge": 2,
             "families": [
                 {
                     "family": 16,
@@ -1670,6 +1726,7 @@
             "difficulty": "Normal",
             "seconds": 150.0,
             "items": 59,
+            "merge": 2,
             "families": [
                 {
                     "family": 1,
@@ -1693,6 +1750,7 @@
             "difficulty": "Normal",
             "seconds": 180.0,
             "items": 72,
+            "merge": 2,
             "families": [
                 {
                     "family": 5,
@@ -1721,6 +1779,7 @@
             "difficulty": "Très difficile",
             "seconds": 115.0,
             "items": 105,
+            "merge": 2,
             "families": [
                 {
                     "family": 0,
@@ -1754,6 +1813,7 @@
             "difficulty": "Normal",
             "seconds": 165.0,
             "items": 55,
+            "merge": 3,
             "families": [
                 {
                     "family": 8,
@@ -1777,6 +1837,7 @@
             "difficulty": "Normal",
             "seconds": 150.0,
             "items": 59,
+            "merge": 2,
             "families": [
                 {
                     "family": 15,
@@ -1800,6 +1861,7 @@
             "difficulty": "Normal",
             "seconds": 165.0,
             "items": 63,
+            "merge": 2,
             "families": [
                 {
                     "family": 14,
@@ -1823,6 +1885,7 @@
             "difficulty": "Normal",
             "seconds": 180.0,
             "items": 62,
+            "merge": 2,
             "families": [
                 {
                     "family": 7,
@@ -1851,6 +1914,7 @@
             "difficulty": "Difficile",
             "seconds": 100.0,
             "items": 61,
+            "merge": 2,
             "families": [
                 {
                     "family": 7,
@@ -1874,6 +1938,7 @@
             "difficulty": "Normal",
             "seconds": 105.0,
             "items": 43,
+            "merge": 2,
             "families": [
                 {
                     "family": 4,
@@ -1897,6 +1962,7 @@
             "difficulty": "Normal",
             "seconds": 105.0,
             "items": 43,
+            "merge": 2,
             "families": [
                 {
                     "family": 14,
@@ -1920,6 +1986,7 @@
             "difficulty": "Normal",
             "seconds": 180.0,
             "items": 72,
+            "merge": 2,
             "families": [
                 {
                     "family": 3,
@@ -1948,6 +2015,7 @@
             "difficulty": "Normal",
             "seconds": 165.0,
             "items": 63,
+            "merge": 2,
             "families": [
                 {
                     "family": 14,
@@ -1971,6 +2039,7 @@
             "difficulty": "Très difficile",
             "seconds": 115.0,
             "items": 66,
+            "merge": 2,
             "families": [
                 {
                     "family": 7,
@@ -2004,6 +2073,7 @@
             "difficulty": "Normal",
             "seconds": 120.0,
             "items": 49,
+            "merge": 3,
             "families": [
                 {
                     "family": 3,
@@ -2027,6 +2097,7 @@
             "difficulty": "Normal",
             "seconds": 150.0,
             "items": 59,
+            "merge": 2,
             "families": [
                 {
                     "family": 7,
@@ -2050,6 +2121,7 @@
             "difficulty": "Normal",
             "seconds": 195.0,
             "items": 78,
+            "merge": 2,
             "families": [
                 {
                     "family": 0,
@@ -2078,6 +2150,7 @@
             "difficulty": "Normal",
             "seconds": 180.0,
             "items": 67,
+            "merge": 2,
             "families": [
                 {
                     "family": 2,
@@ -2106,6 +2179,7 @@
             "difficulty": "Difficile",
             "seconds": 90.0,
             "items": 55,
+            "merge": 2,
             "families": [
                 {
                     "family": 0,
@@ -2129,6 +2203,7 @@
             "difficulty": "Normal",
             "seconds": 180.0,
             "items": 49,
+            "merge": 2,
             "families": [
                 {
                     "family": 0,
@@ -2157,6 +2232,7 @@
             "difficulty": "Normal",
             "seconds": 180.0,
             "items": 72,
+            "merge": 2,
             "families": [
                 {
                     "family": 1,
@@ -2185,6 +2261,7 @@
             "difficulty": "Normal",
             "seconds": 150.0,
             "items": 59,
+            "merge": 2,
             "families": [
                 {
                     "family": 13,
@@ -2208,6 +2285,7 @@
             "difficulty": "Normal",
             "seconds": 180.0,
             "items": 67,
+            "merge": 2,
             "families": [
                 {
                     "family": 3,
@@ -2236,6 +2314,7 @@
             "difficulty": "Très difficile",
             "seconds": 120.0,
             "items": 76,
+            "merge": 2,
             "families": [
                 {
                     "family": 0,
@@ -2274,6 +2353,7 @@
             "difficulty": "Normal",
             "seconds": 150.0,
             "items": 48,
+            "merge": 3,
             "families": [
                 {
                     "family": 1,
@@ -2297,6 +2377,7 @@
             "difficulty": "Normal",
             "seconds": 135.0,
             "items": 53,
+            "merge": 2,
             "families": [
                 {
                     "family": 4,
@@ -2320,6 +2401,7 @@
             "difficulty": "Normal",
             "seconds": 120.0,
             "items": 49,
+            "merge": 2,
             "families": [
                 {
                     "family": 9,
@@ -2343,6 +2425,7 @@
             "difficulty": "Normal",
             "seconds": 180.0,
             "items": 72,
+            "merge": 2,
             "families": [
                 {
                     "family": 1,
@@ -2371,6 +2454,7 @@
             "difficulty": "Difficile",
             "seconds": 110.0,
             "items": 65,
+            "merge": 2,
             "families": [
                 {
                     "family": 4,
@@ -2394,6 +2478,7 @@
             "difficulty": "Normal",
             "seconds": 120.0,
             "items": 49,
+            "merge": 2,
             "families": [
                 {
                     "family": 7,
@@ -2417,6 +2502,7 @@
             "difficulty": "Normal",
             "seconds": 135.0,
             "items": 53,
+            "merge": 2,
             "families": [
                 {
                     "family": 15,
@@ -2440,6 +2526,7 @@
             "difficulty": "Normal",
             "seconds": 150.0,
             "items": 59,
+            "merge": 2,
             "families": [
                 {
                     "family": 8,
@@ -2463,6 +2550,7 @@
             "difficulty": "Normal",
             "seconds": 135.0,
             "items": 53,
+            "merge": 2,
             "families": [
                 {
                     "family": 8,
@@ -2486,6 +2574,7 @@
             "difficulty": "Très difficile",
             "seconds": 140.0,
             "items": 67,
+            "merge": 2,
             "families": [
                 {
                     "family": 1,
@@ -2524,6 +2613,7 @@
             "difficulty": "Normal",
             "seconds": 120.0,
             "items": 46,
+            "merge": 3,
             "families": [
                 {
                     "family": 9,
@@ -2547,6 +2637,7 @@
             "difficulty": "Normal",
             "seconds": 135.0,
             "items": 53,
+            "merge": 2,
             "families": [
                 {
                     "family": 0,
@@ -2570,6 +2661,7 @@
             "difficulty": "Normal",
             "seconds": 120.0,
             "items": 49,
+            "merge": 2,
             "families": [
                 {
                     "family": 6,
@@ -2593,6 +2685,7 @@
             "difficulty": "Normal",
             "seconds": 105.0,
             "items": 43,
+            "merge": 2,
             "families": [
                 {
                     "family": 15,
@@ -2616,6 +2709,7 @@
             "difficulty": "Difficile",
             "seconds": 120.0,
             "items": 52,
+            "merge": 2,
             "families": [
                 {
                     "family": 1,
@@ -2644,6 +2738,7 @@
             "difficulty": "Normal",
             "seconds": 150.0,
             "items": 51,
+            "merge": 2,
             "families": [
                 {
                     "family": 7,
@@ -2667,6 +2762,7 @@
             "difficulty": "Normal",
             "seconds": 150.0,
             "items": 59,
+            "merge": 2,
             "families": [
                 {
                     "family": 13,
@@ -2690,6 +2786,7 @@
             "difficulty": "Normal",
             "seconds": 150.0,
             "items": 55,
+            "merge": 2,
             "families": [
                 {
                     "family": 10,
@@ -2713,6 +2810,7 @@
             "difficulty": "Normal",
             "seconds": 135.0,
             "items": 53,
+            "merge": 2,
             "families": [
                 {
                     "family": 4,
@@ -2736,6 +2834,7 @@
             "difficulty": "Très difficile",
             "seconds": 100.0,
             "items": 73,
+            "merge": 2,
             "families": [
                 {
                     "family": 2,
@@ -2769,6 +2868,7 @@
             "difficulty": "Normal",
             "seconds": 135.0,
             "items": 53,
+            "merge": 3,
             "families": [
                 {
                     "family": 9,
