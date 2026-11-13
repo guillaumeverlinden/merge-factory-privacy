@@ -18,6 +18,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 0,
@@ -57,6 +58,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 0,
@@ -116,6 +118,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 8,
@@ -155,6 +158,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 0,
@@ -214,6 +218,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 0,
@@ -263,6 +268,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 3,
@@ -312,6 +318,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 0,
@@ -366,6 +373,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 0,
@@ -435,6 +443,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 0,
@@ -489,6 +498,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 0,
@@ -558,6 +568,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 2,
@@ -617,6 +628,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 3,
@@ -656,6 +668,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 1,
@@ -695,6 +708,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 5,
@@ -744,6 +758,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 1,
@@ -783,6 +798,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 0,
@@ -822,6 +838,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 4,
@@ -861,6 +878,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 7,
@@ -900,6 +918,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 2,
@@ -949,6 +968,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 5,
@@ -983,6 +1003,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 4,
@@ -1017,6 +1038,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 7,
@@ -1051,6 +1073,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 5,
@@ -1090,6 +1113,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 2,
@@ -1124,6 +1148,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 0,
@@ -1158,6 +1183,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 10,
@@ -1197,6 +1223,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 4,
@@ -1241,6 +1268,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 7,
@@ -1285,6 +1313,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 2,
@@ -1324,6 +1353,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 7,
@@ -1358,6 +1388,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 10,
@@ -1397,6 +1428,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 0,
@@ -1436,6 +1468,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 4,
@@ -1470,6 +1503,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 6,
@@ -1504,6 +1538,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 5,
@@ -1538,6 +1573,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 0,
@@ -1577,6 +1613,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 9,
@@ -1611,6 +1648,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 5,
@@ -1645,6 +1683,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 0,
@@ -1704,6 +1743,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 0,
@@ -1738,6 +1778,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 2,
@@ -1772,6 +1813,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 0,
@@ -1806,6 +1848,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 14,
@@ -1840,6 +1883,7 @@
             "frozenItems": 0,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 0.0,
             "families": [
                 {
                     "family": 7,
@@ -1871,9 +1915,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 2,
+            "frozenItems": 5,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 8,
@@ -1905,9 +1950,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 3,
+            "frozenItems": 5,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 10,
@@ -1939,9 +1985,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 4,
+            "frozenItems": 5,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 6,
@@ -1978,9 +2025,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 2,
+            "frozenItems": 6,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 13,
@@ -2012,9 +2060,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 3,
+            "frozenItems": 6,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 1,
@@ -2051,9 +2100,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 4,
+            "frozenItems": 6,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 0,
@@ -2085,9 +2135,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 2,
+            "frozenItems": 6,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 14,
@@ -2119,9 +2170,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 3,
+            "frozenItems": 6,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 5,
@@ -2153,9 +2205,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 4,
+            "frozenItems": 6,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 14,
@@ -2187,9 +2240,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 2,
+            "frozenItems": 7,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 1,
@@ -2226,9 +2280,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 3,
+            "frozenItems": 7,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 3,
@@ -2260,9 +2315,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 4,
+            "frozenItems": 7,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 16,
@@ -2294,9 +2350,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 2,
+            "frozenItems": 7,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 1,
@@ -2328,9 +2385,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 3,
+            "frozenItems": 7,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 5,
@@ -2367,9 +2425,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 4,
+            "frozenItems": 8,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 0,
@@ -2411,9 +2470,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 2,
+            "frozenItems": 8,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 8,
@@ -2445,9 +2505,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 3,
+            "frozenItems": 8,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 15,
@@ -2479,9 +2540,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 4,
+            "frozenItems": 8,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 14,
@@ -2513,9 +2575,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 2,
+            "frozenItems": 8,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 7,
@@ -2552,9 +2615,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 3,
+            "frozenItems": 8,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 7,
@@ -2586,9 +2650,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 4,
+            "frozenItems": 9,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 4,
@@ -2620,9 +2685,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 2,
+            "frozenItems": 9,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 14,
@@ -2654,9 +2720,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 3,
+            "frozenItems": 9,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 3,
@@ -2693,9 +2760,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 4,
+            "frozenItems": 9,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 14,
@@ -2727,9 +2795,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 2,
+            "frozenItems": 9,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 7,
@@ -2771,9 +2840,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 3,
+            "frozenItems": 10,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 3,
@@ -2805,9 +2875,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 4,
+            "frozenItems": 10,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 7,
@@ -2839,9 +2910,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 2,
+            "frozenItems": 10,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 0,
@@ -2878,9 +2950,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 3,
+            "frozenItems": 10,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 2,
@@ -2917,9 +2990,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 4,
+            "frozenItems": 10,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 0,
@@ -2951,9 +3025,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 2,
+            "frozenItems": 10,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 0,
@@ -2990,9 +3065,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 3,
+            "frozenItems": 11,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 1,
@@ -3029,9 +3105,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 4,
+            "frozenItems": 11,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 13,
@@ -3063,9 +3140,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 2,
+            "frozenItems": 11,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 3,
@@ -3102,9 +3180,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 3,
+            "frozenItems": 11,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 0,
@@ -3151,9 +3230,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 4,
+            "frozenItems": 11,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 1,
@@ -3185,9 +3265,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 2,
+            "frozenItems": 12,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 4,
@@ -3219,9 +3300,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 3,
+            "frozenItems": 12,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 9,
@@ -3253,9 +3335,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 4,
+            "frozenItems": 12,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 1,
@@ -3292,9 +3375,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 2,
+            "frozenItems": 12,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 4,
@@ -3326,9 +3410,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 3,
+            "frozenItems": 12,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 7,
@@ -3360,9 +3445,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 4,
+            "frozenItems": 12,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 15,
@@ -3394,9 +3480,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 2,
+            "frozenItems": 13,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 8,
@@ -3428,9 +3515,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 3,
+            "frozenItems": 13,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 8,
@@ -3462,9 +3550,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 4,
+            "frozenItems": 13,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 1,
@@ -3511,9 +3600,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 2,
+            "frozenItems": 13,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 9,
@@ -3545,9 +3635,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 3,
+            "frozenItems": 13,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 0,
@@ -3579,9 +3670,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 4,
+            "frozenItems": 14,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 6,
@@ -3613,9 +3705,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 2,
+            "frozenItems": 14,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 15,
@@ -3647,9 +3740,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 3,
+            "frozenItems": 14,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 1,
@@ -3686,9 +3780,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 4,
+            "frozenItems": 14,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 7,
@@ -3720,9 +3815,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 2,
+            "frozenItems": 14,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 13,
@@ -3754,9 +3850,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 3,
+            "frozenItems": 14,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 10,
@@ -3788,9 +3885,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 4,
+            "frozenItems": 15,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 4,
@@ -3822,9 +3920,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 2,
+            "frozenItems": 15,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 2,
@@ -3866,9 +3965,10 @@
             "bombMaxMerges": 3,
             "videoCubes": 1,
             "videoSeconds": 4.0,
-            "frozenItems": 3,
+            "frozenItems": 15,
             "frozenMergesMin": 3,
             "frozenMergesMax": 6,
+            "frozenMergePercent": 10.0,
             "families": [
                 {
                     "family": 9,
