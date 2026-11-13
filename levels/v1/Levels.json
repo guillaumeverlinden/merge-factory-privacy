@@ -3783,7 +3783,7 @@
             "frozenMergesMax": 6,
             "frozenMergePercent": 10.0,
             "stoneInterval": 5.0,
-            "stoneMax": 50,
+            "stoneMax": 25,
             "families": [
                 {
                     "family": 9,
@@ -3820,7 +3820,7 @@
             "frozenMergesMax": 6,
             "frozenMergePercent": 10.0,
             "stoneInterval": 5.0,
-            "stoneMax": 50,
+            "stoneMax": 25,
             "families": [
                 {
                     "family": 0,
@@ -3857,7 +3857,7 @@
             "frozenMergesMax": 6,
             "frozenMergePercent": 10.0,
             "stoneInterval": 5.0,
-            "stoneMax": 50,
+            "stoneMax": 25,
             "families": [
                 {
                     "family": 6,
@@ -3894,7 +3894,7 @@
             "frozenMergesMax": 6,
             "frozenMergePercent": 10.0,
             "stoneInterval": 5.0,
-            "stoneMax": 50,
+            "stoneMax": 25,
             "families": [
                 {
                     "family": 15,
@@ -3931,7 +3931,7 @@
             "frozenMergesMax": 6,
             "frozenMergePercent": 10.0,
             "stoneInterval": 5.0,
-            "stoneMax": 50,
+            "stoneMax": 25,
             "families": [
                 {
                     "family": 1,
@@ -3973,7 +3973,7 @@
             "frozenMergesMax": 6,
             "frozenMergePercent": 10.0,
             "stoneInterval": 5.0,
-            "stoneMax": 50,
+            "stoneMax": 25,
             "families": [
                 {
                     "family": 7,
@@ -4010,7 +4010,7 @@
             "frozenMergesMax": 6,
             "frozenMergePercent": 10.0,
             "stoneInterval": 5.0,
-            "stoneMax": 50,
+            "stoneMax": 25,
             "families": [
                 {
                     "family": 13,
@@ -4047,7 +4047,7 @@
             "frozenMergesMax": 6,
             "frozenMergePercent": 10.0,
             "stoneInterval": 5.0,
-            "stoneMax": 50,
+            "stoneMax": 25,
             "families": [
                 {
                     "family": 10,
@@ -4084,7 +4084,7 @@
             "frozenMergesMax": 6,
             "frozenMergePercent": 10.0,
             "stoneInterval": 5.0,
-            "stoneMax": 50,
+            "stoneMax": 25,
             "families": [
                 {
                     "family": 4,
@@ -4121,7 +4121,7 @@
             "frozenMergesMax": 6,
             "frozenMergePercent": 10.0,
             "stoneInterval": 5.0,
-            "stoneMax": 50,
+            "stoneMax": 25,
             "families": [
                 {
                     "family": 2,
