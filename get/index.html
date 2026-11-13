@@ -16,6 +16,9 @@
   a.store { display: block; margin: 14px auto; padding: 16px 20px; border-radius: 16px; background: #2fbf5b; color: #fff;
             font-weight: 700; font-size: 1.1em; text-decoration: none; }
   a.store.off { background: rgba(255,255,255,0.18); pointer-events: none; }
+  .code { margin: 22px auto 6px; padding: 14px; border-radius: 16px; background: rgba(255,255,255,0.14); }
+  .code strong { display: block; font-size: 1.6em; letter-spacing: 0.06em; margin: 6px 0; }
+  .code button { border: 0; border-radius: 12px; padding: 10px 18px; font-weight: 700; background: #fff; color: #4b2fb8; }
   .small { font-size: 0.85em; opacity: 0.7; }
 </style>
 </head>
@@ -25,6 +28,12 @@
   <p>Merge identical 3D items before the timer runs out. Free to play.</p>
   <a id="ios" class="store" href="#">Download on the App Store</a>
   <a id="android" class="store" href="#">Get it on Google Play</a>
+  <div class="code" id="codeBox" hidden>
+    <div>Your friend's invite code</div>
+    <strong id="code"></strong>
+    <div class="small">Enter it in the game (Social tab) after installing: you both get a gift.</div>
+    <p><button id="copy" type="button">Copy the code</button></p>
+  </div>
   <p class="small" id="note"></p>
 </main>
 <script>
@@ -39,11 +48,28 @@
   if (IOS_URL) ios.href = IOS_URL;
   else { ios.textContent = "App Store: coming soon"; ios.className = "store off"; }
 
-  // Phones go straight to their own store.
+  // Invite code of the friend who shared the link (?ref=M3D-XXXXXX).
+  var ref = (new URLSearchParams(window.location.search).get("ref") || "").toUpperCase().replace(/[^A-Z0-9-]/g, "");
+  if (!/^M3D-[A-Z0-9]{6}$/.test(ref)) ref = "";
+  // Android: Google Play hands "ref=CODE" to the installed game, which registers it by itself.
+  var playUrl = ref ? PLAY_URL + "&referrer=" + encodeURIComponent("ref=" + ref) : PLAY_URL;
+  android.href = playUrl;
+  if (ref) {
+    document.getElementById("code").textContent = ref;
+    document.getElementById("codeBox").hidden = false;
+    document.getElementById("copy").onclick = function () {
+      if (navigator.clipboard) navigator.clipboard.writeText(ref).then(function () {
+        document.getElementById("copy").textContent = "Copied!";
+      });
+    };
+  }
+
+  // Android goes straight to Google Play. iPhones stay on this page when there is a code, so the
+  // friend can see and copy it (Apple does not pass anything from the link to the installed game).
   var ua = navigator.userAgent || "";
   var isIOS = /iPhone|iPad|iPod/i.test(ua) || (/Macintosh/i.test(ua) && "ontouchend" in document);
-  if (/Android/i.test(ua)) window.location.replace(PLAY_URL);
-  else if (isIOS && IOS_URL) window.location.replace(IOS_URL);
+  if (/Android/i.test(ua)) window.location.replace(playUrl);
+  else if (isIOS && IOS_URL && !ref) window.location.replace(IOS_URL);
 </script>
 </body>
 </html>
