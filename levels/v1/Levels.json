@@ -1,6 +1,6 @@
 {
     "source": "Balancing/Merge3D_Balancing.xlsx",
-    "revision": 1795289752,
+    "revision": 1795465651,
     "levels": [
         {
             "level": 1,
@@ -49855,5 +49855,8 @@
         "treasure": 2000,
         "cooldownMinutes": 15,
         "maxHours": 24
+    },
+    "economy": {
+        "startingCoins": 0
     }
 }
