@@ -1,6 +1,6 @@
 {
     "source": "Balancing/Merge3D_Balancing.xlsx",
-    "revision": 1795465651,
+    "revision": 1795867090,
     "levels": [
         {
             "level": 1,
@@ -49858,5 +49858,49 @@
     },
     "economy": {
         "startingCoins": 0
-    }
+    },
+    "skyLift": [
+        {
+            "wins": 3,
+            "kind1": "unlimited",
+            "amount1": 15,
+            "kind2": "",
+            "amount2": 0
+        },
+        {
+            "wins": 6,
+            "kind1": "coins",
+            "amount1": 150,
+            "kind2": "",
+            "amount2": 0
+        },
+        {
+            "wins": 9,
+            "kind1": "hint",
+            "amount1": 2,
+            "kind2": "freeze",
+            "amount2": 2
+        },
+        {
+            "wins": 12,
+            "kind1": "unlimited",
+            "amount1": 30,
+            "kind2": "coins",
+            "amount2": 300
+        },
+        {
+            "wins": 15,
+            "kind1": "coins",
+            "amount1": 500,
+            "kind2": "shuffle",
+            "amount2": 2
+        },
+        {
+            "wins": 18,
+            "kind1": "unlimited",
+            "amount1": 60,
+            "kind2": "coins",
+            "amount2": 1000
+        }
+    ]
 }
